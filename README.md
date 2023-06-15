@@ -1,7 +1,7 @@
 # Backend API
 
 This project is a Backend API that provides various functionalities for a web application. It is built using Node.js and Express.js, and it interacts with a Microsoft SQL Server database. The API includes features such as user authentication using JSON Web Tokens (JWT), bcrypt for password hashing, and CORS support.
-
+![GoogleGIF](https://github.com/Evanoken/simple_backend_encrypted_form/assets/95754975/e86302a7-955e-4a5e-a4ab-aa90ba1cb8f2)
 
 ## Installation
 
@@ -27,10 +27,11 @@ JWT_SECRET=your_jwt_secret
 
 
 The server should now be running on `http://localhost:3000`.
-
+![BolAliexpressGIF](https://github.com/Evanoken/simple_backend_encrypted_form/assets/95754975/513cbc60-d6ea-4276-b273-7dd099c79247)
 ## Usage
 
 Once the server is running, you can interact with the Backend API by sending HTTP requests to the available endpoints. The API provides various routes for user authentication, data retrieval, creation, updating, and deletion.
+![UseCodeBrendenPleaseCreeperMadeThisGIF](https://github.com/Evanoken/simple_backend_encrypted_form/assets/95754975/3a66db37-eb41-4150-bf82-df958cb410c0)
 
 ### Authentication
 
@@ -38,6 +39,7 @@ The following endpoints are available for user authentication:
 
 - **POST /api/auth/register**: Register a new user by providing a username and password in the request body.
 - **POST /api/auth/login**: Authenticate a user by providing a username and password in the request body. Returns a JWT token.
+![DigibyteDgbGIF](https://github.com/Evanoken/simple_backend_encrypted_form/assets/95754975/ba230e4f-c52b-45c1-84d5-ce573ce15600)
 
 ### Protected Routes
 
@@ -62,6 +64,9 @@ The following scripts are available to manage the project:
 ## Author
 
 This project was developed by Evans Ngugi Kariuki.
+
+![BrooklynNineNineAndySambergGIF](https://github.com/Evanoken/simple_backend_encrypted_form/assets/95754975/924328a6-d5ab-445c-8543-7ca8d5db217c)
+
 
 
 
